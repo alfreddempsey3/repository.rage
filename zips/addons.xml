@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.rage" name="My Test Add-on" version="0.0.2" provider-name="PJD1976">
+<addon id="plugin.video.rage" name="My Test Add-on" version="0.0.3" provider-name="PJD1976">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.nanscrapers" version="0.5.5" />
