@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.rage" name="Pats Repo" version="0.0.1" provider-name="PJD1976">
+	<extension point="xbmc.addon.repository" name="Pats Repo">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/alfreddempsey3/repository.rage/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/alfreddempsey3/repository.rage/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/alfreddempsey3/repository.rage/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Test repo</summary>
+		<description lang="en">Test repo</description>
+		<genre>livetv,music,uk,usa</genre>
+	</extension>
+</addon>
