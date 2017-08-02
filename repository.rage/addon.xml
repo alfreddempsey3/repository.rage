@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.rage" name="Pats Repo" version="0.0.1" provider-name="PJD1976">
-	<extension point="xbmc.addon.repository" name="Pats Repo">
+<addon id="repository.rage" name="PJD Repo" version="0.0.2" provider-name="PJD1976">
+	<extension point="xbmc.addon.repository" name="PJD Repo">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>

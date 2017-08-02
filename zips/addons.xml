@@ -23,30 +23,8 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.rage" name="My Test Add-on" version="0.0.3" provider-name="PJD1976">
-	<requires>
-		<import addon="xbmc.python" version="2.19.0" />
-		<import addon="script.module.nanscrapers" version="0.5.5" />
-        <import addon="script.module.python.koding.aio" version="0.0.1"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">testing</summary>
-		<description lang="en">testing</description>
-		<platform>all</platform>
-		<forum>http://www.noobsandnerds.com/support</forum>
-		<website>www.noobsandnerds.com</website>
-		<news></news>
-		<genre>livetv,music,uk,usa</genre>
-		<video_guide></video_guide>
-		<video_preview></video_preview>
-	</extension>
-</addon>
-
-<addon id="repository.rage" name="Pats Repo" version="0.0.1" provider-name="PJD1976">
-	<extension point="xbmc.addon.repository" name="Pats Repo">
+<addon id="repository.rage" name="PJD Repo" version="0.0.2" provider-name="PJD1976">
+	<extension point="xbmc.addon.repository" name="PJD Repo">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
