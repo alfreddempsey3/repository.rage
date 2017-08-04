@@ -2,7 +2,7 @@
 <addon id="plugin.video.pjd.playlist"
 	name="DJing EDM Music Channels"
 	version="1.6"
-	provider-name="WHUFCLEE, VULCAN, PJD1976">
+	provider-name="WHUFCLEE, VULCAN, PJD">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.python.koding.aio" version="0.5"/>
