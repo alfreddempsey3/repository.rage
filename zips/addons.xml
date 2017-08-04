@@ -15,7 +15,7 @@
 		<platform>all</platform>
 		<forum>http://www.noobsandnerds.com/support</forum>
 		<website>www.noobsandnerds.com</website>
-		<news></news>
+		<news>Lots of Aphex Goodies</news>
 		<genre>music,uk,usa</genre>
 		<video_guide></video_guide>
 		<video_preview></video_preview>
@@ -41,11 +41,11 @@
     <forum>http://noobsandnerds.com/support</forum>
     <website>http://totalrevolution.tv</website>
     <source></source>
-    <news>First release</news>
+    <news>Goodies form djing.com</news>
   </extension>
 </addon>
 
-<addon id="repository.rage" name="PJD Repo" version="0.0.5" provider-name="PJD1976">
+<addon id="repository.rage" name="PJD Repo" version="0.0.6" provider-name="PJD1976">
 	<extension point="xbmc.addon.repository" name="PJD Repo">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
