@@ -26,7 +26,7 @@ addon_id     = xbmcaddon.Addon().getAddonInfo('id')
 home         = xbmc.translatePath('special://home')
 
 # Our master XML we want to load up
-main_xml     = 'https://raw.githubusercontent.com/alfreddempsey3/testingrepo/master/video.xml'
+main_xml     = 'https://raw.githubusercontent.com/alfreddempsey3/repository.rage/master/xml/video.xml'
 # Alternatively you could set a local XML but online obviously means less add-on updates to push
 # main_xml     = os.path.join(home,'addons',addon_id,'resources','video.xml')
 
