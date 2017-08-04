@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.aphex" name="Aphex Twin Playlists" version="0.0.992" provider-name="PJD">
+<addon id="plugin.video.aphex" name="Aphex Twin Playlists" version="0.1.0" provider-name="PJD">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.nanscrapers" version="0.5.5" />
