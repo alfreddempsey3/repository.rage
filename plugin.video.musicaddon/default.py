@@ -4,10 +4,10 @@
 #--------------------------------------------------------------------
 # License: GPL (http://www.gnu.org/licenses/gpl-3.0.html)
 #
-# Author: Team X Kodi  (@teamxkodi Twitter)
+# Author: PJD
 #   
 #
-#  Thanks To Whufclee for your Assistance on coding 
+#  Big thanks to Whufclee and Vulcan for their patience and help
 #------------------------------------------------------------
 
 import os           # access operating system commands
