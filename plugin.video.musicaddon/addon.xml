@@ -11,7 +11,7 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Globe Radio</summary>
 <<<<<<< HEAD
-		<description lang="en">Global Radio Sources</description>
+		<description lang="en">Globe Radio Sources</description>
 =======
 		<description lang="en">Radio Channels from around the planet</description>
 >>>>>>> 292faa27c67c3ff16728a69bc859ce26c9c9124c
