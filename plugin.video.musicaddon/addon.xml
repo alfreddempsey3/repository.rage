@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.musicradio" name="Music Radio" version="1.0" provider-name="Team X">
+<addon id="plugin.video.musicradio" name="Globe Radio" version="1.0" provider-name="PJD">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.nanscrapers" version="0.5.5" />
@@ -9,8 +9,8 @@
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Muisc Radio</summary>
-		<description lang="en">Discover Music and Radio Channels from all over the world</description>
+		<summary lang="en">Globe Radio</summary>
+		<description lang="en">Radio Channels from around the planet</description>
 		<platform>all</platform>
 		<forum></forum>
 		<website></website>
