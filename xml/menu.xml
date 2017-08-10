@@ -1,18 +1,12 @@
 <items>
         <item>
         <title>[COLOR=gold]Info[/COLOR]</title>
-        <link>msg~"title":"Music Radio","msg":"For Help and support Contact us on Twitter @teamxkodi"</link>
-        <thumbnail>http://www.iconsdb.com/icons/preview/gray/info-xxl.png</thumbnail>
-        </item>
-
-        <item>
-        <title>[COLOR=blue]Live Music TV Channels[/COLOR]</title>
-        <link>https://github.com/tdbnz123/Music-Radio-Addon/raw/master/Files/Music%20Channels/menu.xml</link>
-        <thumbnail>https://www.djing.com/newimages/content/c01.jpg</thumbnail>
+        <link>msg~"title":"Globe Radio","msg":"Radio from around the Planet"</link>
+        <thumbnail>https://pix.avaxnews.com/avaxnews/8c/f2/0000f28c_big.jpeg</thumbnail>
         </item>
         
         <item>
-        <title>[COLOR=blue]Radio [/COLOR]</title>
+        <title>[COLOR=dodgerblue]Radio Stations[/COLOR]</title>
         <link>https://github.com/tdbnz123/Music-Radio-Addon/raw/master/Files/radio/menu/1.0.xml</link>
         <thumbnail>http://www.iconsfind.com/wp-content/uploads/2016/04/20160406_57047879ab121.png</thumbnail>
         </item>
