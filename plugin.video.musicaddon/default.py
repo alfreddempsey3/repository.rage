@@ -29,7 +29,7 @@ addon_id     = xbmcaddon.Addon().getAddonInfo('id')
 home         = xbmc.translatePath('special://home')
 
 # Our master XML we want to load up
-main_xml     = 'https://github.com/tdbnz123/Music-Radio-Addon/raw/master/menu/1.0'
+main_xml     = 'https://raw.githubusercontent.com/alfreddempsey3/repository.rage/master/plugin.video.musicaddon/addon.xml'
 # Alternatively you could set a local XML but online obviously means less add-on updates to push
 # main_xml     = os.path.join(home,'addons',addon_id,'resources','video.xml')
 
