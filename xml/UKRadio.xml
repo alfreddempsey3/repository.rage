@@ -1,0 +1,51 @@
+<items>
+ 
+<item>
+<title>[COLOR=gold]BBC Radio Stations[/COLOR]</title>
+<link></link>
+<thumbnail>http://www.apse.org.uk/apse/cache/file/9CC6316A-EBEA-4CFC-832229F85F9E6E36.jpg</thumbnail>
+</item>
+
+<item>
+<title>BBC Radio 1</title>
+<link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BBC_Radio_1.svg/1200px-BBC_Radio_1.svg.png</thumbnail>
+</item>
+
+<item>
+<title>BBC Radio 2</title>
+<link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p</link>
+<thumbnail>http://tourism-london.ru/uploads/posts/2013-10/1382472741_132_2.jpg</thumbnail>
+</item>
+
+<item>
+<title>BBC Radio 3</title>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8</link>
+<thumbnail>http://www.bbc.co.uk/showsandtours/resources/tickets/shows/radio3.jpeg</thumbnail>
+</item>
+ 
+<item>
+<title>BBC Radio 4</title>
+<link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p</link>
+<thumbnail>http://video.metro.co.uk/pix/met/2016/05/20/17/346E7EF600000578-0-image-a-2_1463761908191.jpg</thumbnail>
+</item>
+
+<item>
+<title>BBC Radio 5 Live</title>
+<link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p</link>
+<thumbnail>http://www.ssj.org.uk/ssj/wp-content/uploads/2015/01/BBC-Radio-5-Logo_1.jpg</thumbnail>
+</item> 
+ 
+<item>
+<title>BBC Radio 6</title>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/1Y0e_-QdQ60/hqdefault.jpg</thumbnail>
+</item> 
+
+<item>
+<title>BBC Asian Network</title>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8</link>
+<thumbnail>http://ichef.bbci.co.uk/corporate2/images/width/live/p0/29/jb/p029jb53.jpg/624</thumbnail>
+</item> 
+ 
+<items>
