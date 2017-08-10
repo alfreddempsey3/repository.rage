@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.rage" name="PJD Repo" version="0.0.8" provider-name="PJD1976">
+<addon id="repository.rage" name="PJD Repo" version="0.0.9" provider-name="PJD1976">
 	<extension point="xbmc.addon.repository" name="PJD Repo">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
