@@ -1,19 +1,78 @@
 <items>
-
+ 
+<item>
+<title>[COLOR=gold]DI.FM Addictive Electronic Music[/COLOR]</title>
+<link>https://di.fm.com/</link>
+<thumbnail>https://images2.alphacoders.com/174/thumb-1920-174992.jpg</thumbnail>
+</item>
 
 <item>
-<title>Pioneer DJ Radio</title>
-<link>http://listen.pioneerdjradio.com:8550/;?type=http&nocache=286972</link>
-<thumbnail>http://fungyung.com/data/out/86/62872643-pioneer-dj-wallpapers.jpg</thumbnail>
+<title>Ambient - athmospheres to take you deeper</title>
+<link>http://pub1.diforfree.org:8000/di_ambient_hi</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/b3/e4/ef/b3e4efa7dfd7e6d444ec42f1944aa7b6.jpg</thumbnail>
 </item>
  
+<item>
+<title>Big Room House - House music styles yesterday and today</title>
+<link>http://pub1.diforfree.org:8000/di_bigroomhouse_hi</link>
+<thumbnail>https://news.pyromusic.cn/wp-content/uploads/2017/03/big_room_house_wallpaper_by_wessartmedia-d84vsxj-300x300.jpg</thumbnail>
 </item>
+ 
+<item>
+<title>Classic Trance- re-live the best of Trance</title>
+<link>http://pub1.diforfree.org:8000/di_classictrance_hi</link>
+<thumbnail>http://www.edmtunes.com/wp-content/uploads/2015/12/trance_typo_by_morthiasik.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>Club Dubstep- the best of club proven Dubstep</title>
+<link>http://pub1.diforfree.org:8000/di_clubdubstep_hi</link>
+<thumbnail>https://i.pinimg.com/564x/14/5e/09/145e092c672e22250e1f223b6fcaa677.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>Deep House</title>
+<link>http://pub2.diforfree.org:8000/di_deephouse_hi</link>
+<thumbnail>http://besthdwallpapers.org/wp-content/uploads/2017/05/i-love-house-music-wallpapers-wallpaper-cave-1920x1080.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR=gold]SOMA FM - Commercial Free Radio Stations[/COLOR]</title>
+<link>https://somafm.com/</link>
+<thumbnail>https://images2.alphacoders.com/174/thumb-1920-174992.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>Beatblender - A late night blend of deep-house and downtempo chill.</title>
+<link>http://ice1.somafm.com/beatblender-128-mp3</link>
+<thumbnail>https://somafm.com/img3/beatblender-400.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>Groovesalad - A nicely chilled plate of ambient/downtempo beats and grooves.</title>
+<link>http://ice1.somafm.com/groovesalad-256-mp3</link>
+<thumbnail>https://somafm.com/img3/groovesalad-400.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>Def Con Radio - Music for Hacking</title>
+<link>http://ice1.somafm.com/defcon-256-mp3</link>
+<thumbnail>https://somafm.com/img3/defcon-400.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>Indie Pop Rocks - old and new Indie Pop tracks</title>
+<link>http://ice1.somafm.com/indiepop-128-mp3</link>
+<thumbnail>https://somafm.com/img/indychick.jpg</thumbnail>
+</item>
+  
+<item>
 <title>[COLOR=gold]Irish Radio Stations[/COLOR]</title>
 <link></link>
-<thumbnail>http://www.apse.org.uk/apse/cache/file/9CC6316A-EBEA-4CFC-832229F85F9E6E36.jpg</thumbnail>
+<thumbnail>http://www.1zoom.net/big2/576/329088-alexfas01.jpg</thumbnail>
 </item>
 
-</item>
+<item>
 <title>Rte Radio 1 (News/Features)</title>
 <link>http://icecast2.rte.ie/radio1</link>
 <thumbnail>http://img.rasset.ie/00048e34-531.jpg</thumbnail>
@@ -42,11 +101,11 @@
 <link>http://icecast2.rte.ie/lyric</link>
 <thumbnail>http://navanchoralfestival.com/wp-content/uploads/2012/05/RTE-Lyric-fm-circular-shape-Logo-1024x1024.jpg</thumbnail>
 </item>
-<item>
 
-<title>[COLOR=gold]BBC Radio Stations[/COLOR]</title>
+<item>
+<title>[COLOR=gold]U.K. Radio Stations[/COLOR]</title>
 <link></link>
-<thumbnail>http://www.apse.org.uk/apse/cache/file/9CC6316A-EBEA-4CFC-832229F85F9E6E36.jpg</thumbnail>
+<thumbnail>http://wallpapercave.com/wp/aSBulKM.jpg</thumbnail>
 </item>
 
 <item>
