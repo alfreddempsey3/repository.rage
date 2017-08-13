@@ -1,6 +1,13 @@
 <items>
 
 <item>
+<title>Rte Radio</title>
+<link></link>
+<thumbnail>https://raw.githubusercontent.com/alfreddempsey3/repository.rage/master/addonpics/rte.jpg</thumbnail>
+</item>
+
+ 
+<item>
 <title>Rte Radio 1 (News/Features)</title>
 <link>http://icecast2.rte.ie/radio1</link>
 <thumbnail>http://img.rasset.ie/00048e34-531.jpg</thumbnail>
