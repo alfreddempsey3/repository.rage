@@ -1,60 +1,60 @@
 <items>
         <item>
-        <title>[COLOR=white]~~~~~~~~~~~~~~~~~~~~[B]DJing[/B]~~~~~~~~~~~~~~~~~~~~[/COLOR]</title>
+        <title>[COLOR=gold]~~~~~~~~~~~~~~~~~~~~[B]DJing Music Video Channels[/B]~~~~~~~~~~~~~~~~~~~~[/COLOR]</title>
         <link>none</link>
         <thumbnail>https://raw.githubusercontent.com/alfreddempsey3/repository.rage/master/addonpics/djing.png</thumbnail>
         </item>
 
         <item>
-        <title>[COLOR=blue][B]DJing Live[/B][/COLOR]</title>
+        <title>[COLOR=yellow][B]DJing Live[/B][/COLOR]</title>
         <link>https://www.djing.com/tv/05.m3u8</link>
         <thumbnail>https://www.djing.com/newimages/content/c01.jpg</thumbnail>
         </item>
 
         <item>
-        <title>[COLOR=blue][B]Ibiza Dance Floor[/B][/COLOR]</title>
+        <title>[COLOR=yellow][B]Ibiza Dance Floor[/B][/COLOR]</title>
         <link>https://www.djing.com/tv/d-05.m3u8</link>
         <thumbnail>https://www.djing.com/newimages/content/c02.jpg</thumbnail>
         </item>
 
         <item>
-        <title>[COLOR=blue][B]UnderGround[/B][/COLOR]</title>
+        <title>[COLOR=yellow][B]UnderGround[/B][/COLOR]</title>
         <link>https://www.djing.com/tv/u-05.m3u8</link>
         <thumbnail>https://www.djing.com/newimages/content/c04.jpg</thumbnail>
         </item>
 
         <item>
-        <title>[COLOR=blue][B]Hot Hot Hot[/B][/COLOR]</title>
+        <title>[COLOR=yellow][B]Hot Hot Hot[/B][/COLOR]</title>
         <link>https://www.djing.com/tv/h-01-fta.m3u8</link>
         <thumbnail>https://raw.githubusercontent.com/alfreddempsey3/repository.rage/master/addonpics/djing-hot-hd-tv.png</thumbnail>
         </item>
         
         <item>
-        <title>[COLOR=blue][B]Classics[/B][/COLOR]</title>
+        <title>[COLOR=yellow][B]Classics[/B][/COLOR]</title>
         <link>https://www.djing.com/tv/i-05.m3u8</link>
         <thumbnail>https://www.djing.com/newimages/content/c06.jpg</thumbnail>
         </item>
         
         <item>
-        <title>[COLOR=blue][B]Animation[/B][/COLOR]</title>
+        <title>[COLOR=yellow][B]Animation[/B][/COLOR]</title>
         <link>https://www.djing.com/tv/a-05.m3u8</link>
         <thumbnail>https://www.djing.com/newimages/content/c07.jpg</thumbnail>
         </item>
 
         <item>
-        <title>[COLOR=blue][B]Summer Vibes[/B][/COLOR]</title>
+        <title>[COLOR=yellow][B]Summer Vibes[/B][/COLOR]</title>
         <link>https://www.djing.com/tv/s-05-summer-vibes.m3u8</link>
         <thumbnail>https://www.djing.com/newimages/content/c05.jpg</thumbnail>
         </item>
 
         <item>
-        <title>[COLOR=blue][B]Electro Rock[/B][/COLOR]</title>
+        <title>[COLOR=yellowblue][B]Electro Rock[/B][/COLOR]</title>
         <link>https://www.djing.com/tv/s-05-electro-rock.m3u8</link>
         <thumbnail>https://www.djing.com/newimages/content/c08.jpg</thumbnail>
         </item>
 
         <item>
-        <title>[COLOR=blue][B]French Touch[/B][/COLOR]</title>
+        <title>[COLOR=yellow][B]French Touch[/B][/COLOR]</title>
         <link>https://www.djing.com/tv/s-05-french-touch.m3u8</link>
         <thumbnail>https://www.djing.com/newimages/content/c09.jpg</thumbnail>
         </item>
